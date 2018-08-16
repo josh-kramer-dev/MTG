@@ -1,0 +1,4 @@
+1.  set up postgres as the DB so you can deploy to Heroku.
+2.  need to be able to get the card I want when I search for it by name
+3.  need to be able to persist them into my database as a Card object
+4.  
